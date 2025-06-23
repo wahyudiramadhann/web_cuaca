@@ -1,3 +1,5 @@
+console.log("JavaScript file loaded!");
+alert("JS works!");
 const API_KEY = '1565c7edaa37219495eed55041887dc3';
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 // Elements
